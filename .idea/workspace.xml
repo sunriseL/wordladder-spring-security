@@ -553,8 +553,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32963988" />
       <window_info anchor="bottom" id="Run Dashboard" order="13" weight="0.31137088" />
       <window_info anchor="right" id="Maven Projects" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2638298" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2638298" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.2098338" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="7" />
